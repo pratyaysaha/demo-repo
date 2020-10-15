@@ -2,5 +2,5 @@
 using namespace std;
 int main()
 {
-    cout<<"HEllo World";
+    cout<<"HEllo World"<<endl;
 }
